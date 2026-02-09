@@ -3,3 +3,10 @@ section{
     margin: 0 auto;
     position: relative;
 }
+.sec{
+    margin-top: 10px;
+}
+.container-fluid{
+    max-width: 1200px;
+    margin: 0 auto;
+}
